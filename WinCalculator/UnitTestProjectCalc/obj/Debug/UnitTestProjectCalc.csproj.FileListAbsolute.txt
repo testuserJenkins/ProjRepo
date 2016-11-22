@@ -1,0 +1,6 @@
+D:\Suther\VSProjects\WinCalculator\UnitTestProjectCalc\bin\Debug\UnitTestProjectCalc.dll
+D:\Suther\VSProjects\WinCalculator\UnitTestProjectCalc\bin\Debug\UnitTestProjectCalc.pdb
+D:\Suther\VSProjects\WinCalculator\UnitTestProjectCalc\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Suther\VSProjects\WinCalculator\UnitTestProjectCalc\obj\Debug\UnitTestProjectCalc.csprojResolveAssemblyReference.cache
+D:\Suther\VSProjects\WinCalculator\UnitTestProjectCalc\obj\Debug\UnitTestProjectCalc.dll
+D:\Suther\VSProjects\WinCalculator\UnitTestProjectCalc\obj\Debug\UnitTestProjectCalc.pdb
